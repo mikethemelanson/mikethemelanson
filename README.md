@@ -3,6 +3,12 @@ Howdy!👋 I'm Senior Editor with [The ReadME Project](https://github.com/readme
 Offline, I enjoy riding bicycles for both fun and transportation, gardening, foraging mushrooms and other edibles as I hike with my partner and our dog, and getting involved in cooperative efforts, such as [our local bicycle co-op](http://bsbc.co). One of the things I'm most excited to explore at the ReadME Project is everything related to open source software - the people, the communities, the ideologies, and the software itself. I have been part of a number of similarly "open" source efforts, such as housing co-ops, bicycle co-ops, and volunteer-run festivals, and I am stoked to tell the stories of these same sorts of efforts and ideas in the world of open source software.
 
 I am always happy to hear your story ideas and thoughts on what is happening in the world of open source software, so please reach out to me at [mikethemelanson@github.com](mailto:mikethemelanson@github.com).
+
+You can also find me on:
+
+- Twitter: [@rwwmike](https://twitter.com/rwwmike)
+- Mastodon: [@rwwmike@hachyderm.io](https://hachyderm.io/@rwwmike)
+- LinkedIn: [Mike Melanson](https://www.linkedin.com/in/mikemelanson/)
 <!--
 **mikethemelanson/mikethemelanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
