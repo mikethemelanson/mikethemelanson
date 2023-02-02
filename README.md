@@ -10,10 +10,6 @@ Offline, I enjoy riding 🚴 bicycles for both fun and transportation, 🍅 gard
 
 Tell me your thoughts and stories ideas regarding open source at [mikethemelanson@github.com](mailto:mikethemelanson@github.com)!
 
-- 🐦: [@rwwmike](https://twitter.com/rwwmike)
-- 🐘: [@rwwmike@hachyderm.io](https://hachyderm.io/@rwwmike)
-- 🔗: [Mike Melanson](https://www.linkedin.com/in/mikemelanson/)
-
 Oh, and fun fact - I wrote a [silly, early morning blog post about Facebook](https://readwrite.com/facebook_wants_to_be_your_one_true_login/) one time and accidentally stepped into the firehose of people searching for "facebook login" on Google instead of typing "facebook.com" into their browser, and [hilarity ensued](https://knowyourmeme.com/memes/i-want-the-old-facebook-back). 
 
 <!--
