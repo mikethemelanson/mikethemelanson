@@ -5,6 +5,7 @@ I'm a Senior Editor with [The ReadME Project](https://github.com/readme) where w
 Here are my latest articles with The ReadME Project:
 - [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language) - ☕ Far from dead, the perpetually-popular language is up to speed and ready for the future.
 - [Marie Kondo your software stack with open source](https://github.com/readme/featured/open-source-minimalism) - 🧹 Mindfully consider each choice—and remember that simple is not necessarily easy
+- [What's in a name? Moving GitOps beyond buzzword](https://github.com/readme/featured/defining-gitops) - 🧰 An open source effort to define GitOps might save it from becoming just another buzzword.
 
 Offline, I enjoy riding 🚴 bicycles for both fun and transportation, 🍅 gardening, 🍄 foraging mushrooms and other edibles as I hike with my partner and our 🐶 dogs, and getting involved in cooperative efforts, such as [our local bicycle co-op](http://bsbc.co). 
 
