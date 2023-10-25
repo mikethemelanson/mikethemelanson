@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://github/github/github"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.erb": "erb",
+			"*.html.erb": "erb"
+		},
+		"remote.autoForwardPorts": false,
+		"task.autoDetect": "off",
+		"typescript.enablePromptUseWorkspaceTsdk": true,
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"master"
+		]
+	}
+}
