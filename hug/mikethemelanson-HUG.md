@@ -5,7 +5,7 @@
 * I’m also ADHD, and I think likely neurodivergent in some other ways too. My brain can be annoyingly good at picking out subtle differences, which I can get stuck on.
 * Knowing how I'm feeling about something can be hard for me to put into words and, depending on the topic, it can take me some time to parse the information and have an answer. 
 * I often need time for my thoughts to percolate, which can look like me stepping away from the computer, getting outside, and getting my heart rate up. I think that the best way to get something done sometimes is to step away from it.
-* My bullshit detector can be highly sensitive, and it’s something that my brain can get caught on.
+* My bullshit/inconsistency detector can be highly sensitive, and it’s something that my brain can get caught on.
 * I try to find ways to automate whatever I can, and can’t help but try to improve processes. And again, I may forget about the people aspect when analyzing, critiquing, and debating that process. 
  	 
 ### What drives you nuts?
