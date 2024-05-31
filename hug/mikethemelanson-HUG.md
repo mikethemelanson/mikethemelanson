@@ -1,8 +1,8 @@
 ## About Mike Melanson
 
 ### What are some honest, unfiltered things about you?
-* I am often honest and unfiltered, myself and when I’m editing something, debating an idea, discussing a problem, I can be intense, but that intensity is meant for the problem at hand, not the humans attached to it. I tend to focus on getting a message across more than *how* that message is delivered. I’m a native New Englander, so that likely accentuates that quality. 
-* I’m also ADHD, and I think likely neurodivergent in some other ways too. 
+* I am often honest and unfiltered myself. When I’m editing something, debating an idea, discussing a problem, I can be intense, but that intensity is meant for the problem at hand, not the humans attached to it. I tend to focus on getting a message across more than *how* that message is delivered. I’m a native New Englander, so that likely accentuates that quality. 
+* I’m also ADHD, and I think likely neurodivergent in some other ways too. (That likely accentuates that quality, too.)
 * Knowing how I'm feeling about something can be hard for me to put into words and, depending on the topic, it can take me some time to parse the information and have an answer. 
 * I often need time for my thoughts to percolate. Also, "work" does not mean "sitting at a desk." I often need to step away from the computer, get outside, and get my heart rate up. I've come up with my best story ideas and sorted my most mixed up thoughts while panting up a hill and shouting things at my voice-to-text between breaths.
 * My bullshit/inconsistency detector can be highly sensitive, and it’s something that my brain can get caught on. Usually for the better, but sometimes not.
