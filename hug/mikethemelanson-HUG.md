@@ -33,7 +33,7 @@
 * Colleagues who I can talk to as a person rather than as a colleague.
 * Colleagues who aren’t ashamed to ask questions and admit they don’t know something.
 * Colleagues who make the effort to find the most source-of-truth information that they can and share it with their team.
-* _(the above stolen from @nicolechoi's HUG)_
+* _(the above three points stolen from @nicolechoi)_
 
 ### What do you wish colleagues didn’t do?
 * *Think of the people you avoid at work. What are their characteristics?*
