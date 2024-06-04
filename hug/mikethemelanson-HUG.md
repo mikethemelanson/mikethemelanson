@@ -20,8 +20,7 @@
 ### What are your quirks?
 * *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
 * Oh, I thought we were already in the "what are your quirks" section!
-* I’m told I can be “hard to read”.
-* Rest assured, I will share my feelings about something when I have them and know what they are.
+* I’m told I can be “hard to read”. Rest assured, I will share my feelings about something when I have them and know what they are.
 * I’m a generally fidgety variety of human.
 
 ### What are some things that people might misunderstand about you that you should clarify?
@@ -34,10 +33,10 @@
 ### What qualities do you particularly value in your colleagues?
 * *Tell us what your ideal colleague would look like. These are the people you normally seek out at work.* 
 * I like how the vast array of qualities in a team add together to augment each other and fill in the gaps.
+* _(the below three points stolen from @nicolechoi)_
 * Colleagues who I can talk to as a person rather than as a colleague.
 * Colleagues who aren’t ashamed to ask questions and admit they don’t know something.
 * Colleagues who make the effort to find the most source-of-truth information that they can and share it with their team.
-* _(the above three points stolen from @nicolechoi)_
 
 ### What do you wish colleagues didn’t do?
 * *Think of the people you avoid at work. What are their characteristics?*
@@ -56,11 +55,11 @@
 * *Tell us how you like to help others.*
 * Sharing the things that the super smart, awesome people have shared with me over the years.  
 * As an editor, I ask lots of questions that I’m sure, at times, can be annoying and seem to have obvious answers. One of the many nice things about having an editor is having another set of eyes to point out the things that you might miss because you're too familiar with the topic or content, or just because we're all human and mis things.
-* Making connections, either by sharing information, resources, or people who may provide them. 
+* Making connections, either by sharing information and resources, or the people who may provide them. 
 
 ### What’s the best way to communicate with you?
 * *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
-* I love not having a strict schedule, which means I'm often on the move. I'm responsive by Slack much of the time. I often plan my days around my calls, that way I can change work locations and get exercise at the same time.
+* I love not having a strict schedule, which means I'm often on the move. I'm responsive on Slack most of the time. I often plan my days around my calls, that way I can change work locations and get exercise at the same time.
 * Zoom is great for various reasons - "too difficult to explain by text" conversations, actually seeing people and hearing their voice, collaborating visually and in real-time. That said, I like to have some heads up, if possible.  If you don’t mind chatting with me in a coffee shop or something, then I don’t either.
 * GitHub Discussions and other async methods offer a different level of interaction and I enjoy them for discussing ideas and providing durable records. 
 	
@@ -71,8 +70,10 @@
 
 ### How do you like to give feedback?
 * *Tell us the modes, means, timing, approach, and level of detail you like to employ when giving feedback, and why that's so.*
-* Most “feedback” I give is in the form of editing, which come as suggested edits, often with rationale for my suggestions as comments.
+* Most “feedback” I give is in the form of editing, which comes as suggested edits, often with rationale for my suggestions as comments.
 
 ### How do you like to get feedback?
 * *Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.*
 * I like direct feedback, as hinting, indirect feedback can feel like passive aggressiveness. 
+
+
