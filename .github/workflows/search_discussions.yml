@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          gem install octokit
+          gem install octokit faraday faraday-retry faraday-multipart
 
       - name: Search discussions
         env:
