@@ -65,8 +65,21 @@ all_repos.each do |repo|
       after: after
     }
 
+    # Prepare the request options
+    options = {
+      headers: {
+        'Accept' => 'application/vnd.github.v4+json',
+        'Content-Type' => 'application/json'
+      },
+      body: {
+        query: query,
+        variables: variables
+      }.to_json
+    }
+
     begin
-      result = client.graphql(query, variables)
+      response = client.post('/graphql', options)
+      result = JSON.parse(response)
     rescue Octokit::Unauthorized
       puts "Authentication failed. Please check your GITHUB_TOKEN."
       exit 1
@@ -75,7 +88,13 @@ all_repos.each do |repo|
       break
     end
 
-    discussions = result['repository']['discussions']
+    # Handle possible errors in the response
+    if result['errors']
+      puts "Error fetching discussions for repository '#{repo_name}': #{result['errors']}"
+      break
+    end
+
+    discussions = result['data']['repository']['discussions']
 
     discussions['edges'].each do |edge|
       node = edge['node']
