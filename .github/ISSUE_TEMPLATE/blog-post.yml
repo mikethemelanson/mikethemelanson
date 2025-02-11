@@ -1,7 +1,7 @@
 name: 📄 New blog post - issue must be opened 2 weeks in advance of requested publication date.
 description: "Template for requesting new blog posts  - issue must be opened 2 weeks in advance of requested publication date."
 title: "YYYY-MM-DD - Blog post title"
-labels: ["blog"]
+labels: ["blog post"]
 body:
 - type: markdown
   attributes:
