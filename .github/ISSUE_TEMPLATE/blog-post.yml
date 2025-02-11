@@ -1,0 +1,69 @@
+name: 📄 New blog post - issue must be opened 2 weeks in advance of requested publication date.
+description: "Template for requesting new blog posts  - issue must be opened 2 weeks in advance of requested publication date."
+title: "YYYY-MM-DD - Blog post title"
+labels: ["blog"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      - ⏰‼️ IMPORTANT: Issues are REQUIRED to be opened **at least 2 weeks prior to desired launch,** with a final draft 48 hours prior to launch ([SLAs here](https://github.com/github/blog/blob/master/docs/blog-process-and-SLAs.md)). The blog team has the right to deny requested publication dates if SLAs not followed. If there’s a business critical reason for why a post is coming in under 1 week, please open the issue, tag `@lclindeman` directly, and contact her on Slack as well to confirm we can do it. 
+      - 🐣 First time writing a blog post? Check out our [blog process](https://github.com/github/blog/blob/master/docs/blog-process-and-SLAs.md) for tips and best practices.
+      - All blog posts will be shared to social media by the blog manager, so no need to open a separate issue in #social-media.
+- type: checkboxes
+  validations:
+    required: true
+  attributes:
+    label: Blog request process checklist
+    description: Please check off the below action items in the blog process once they have been completed.
+    options:
+      - label: Request form completed by author (>2 weeks in advance)
+      - label: Post added to blog calendar
+      - label: Post drafted by author 
+      - label: Post approved by team stakeholders
+      - label: Post approved by Comms
+      - label: Copy edit completed
+      - label: Post staged in WordPress
+      - label: Post scheduled
+      - label: Published
+      - label: Social media issue opened
+- type: textarea
+  validations:
+    required: true
+  attributes:
+    label: 1) Publish date
+    description: What is your requested publish date? Is this flexible a couple days? Requested publish date must be **at least 2 weeks out** from the issue open date.
+    placeholder: ex. 5/10/23, not flexible because of XYZ launch
+- type: textarea
+  validations:
+    required: true
+  attributes:
+  - type: markdown
+  attributes:
+    value: |
+        Credited author (just one is recommended) - @username 
+        Sponsor/Approver - @username 
+        Comms reviewer (required) - @username
+        PMM reviewer (if Product post) - @username
+        Eng reviewer (if Eng post) - @username
+        Product design reviewer (if post describes a UI change/a specific feature) - @username
+        Informed - @username 
+    label: 2) Project stakeholders
+    description: List @username(s) for each of the relevant roles. Not sure who to tag for Comms? Check the [Public Relations team repo](https://github.com/github/public-relations#corporate-communications-team)!    
+- type: textarea
+  validations:
+    required: true
+  attributes:
+    label: 3) Goals
+    description: Why do you want to post on the blog? What are you trying to communicate? What audience are you targeting?
+- type: textarea
+  validations:
+    required: true
+  attributes:
+    label: 4) Draft link
+    description: Please create blog post draft link by making a copy of the [blog template](https://docs.google.com/document/d/1y_NPfl068lDzxXlz8Y8-kVdIqxlGeKLSHulnWQ5F8AM/).
+- type: textarea
+  validations:
+    required: false
+  attributes:
+    label: 5) Related issues & additional info
+    description: Are there related issues/docs to this request? Please add links below. Is there anything else we should know?
