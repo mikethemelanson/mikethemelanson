@@ -47,15 +47,15 @@
 * *Think of the time when a colleague puts a smile on your face. What did they just do?*
 * Pay attention to details. 
 * Talk about your passions.
-* Do whatever things it is that you do that brought you here, because you're good at it.
+* Do whatever thing it is that you do that brought you here, because you're good at it.
 
 ## About my interactions
 
 ### How do you coach people to do their best work and develop their talents?
 * *Tell us how you like to help others.*
-* Sharing the things that the super smart, awesome people have shared with me over the years.  
-* As an editor, I ask lots of questions that I’m sure, at times, can be annoying and seem to have obvious answers. One of the many nice things about having an editor is having another set of eyes to point out the things that you might miss because you're too familiar with the topic or content, or just because we're all human and mis things.
-* Making connections, either by sharing information and resources, or the people who may provide them. 
+* Sharing the things that the super smart, awesome people have shared with me over the years.
+* Making connections, either by sharing information and resources, or the people who may provide them.
+* As an editor, I ask lots of questions that I’m sure, at times, can be annoying and seem to have obvious answers. One of the many nice things about having an editor is having another set of eyes to point out the things that you might miss because you're too familiar with the topic or content, or just because we're all human and miss things.
 
 ### What’s the best way to communicate with you?
 * *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
@@ -74,6 +74,5 @@
 
 ### How do you like to get feedback?
 * *Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.*
-* I like direct feedback, as hinting, indirect feedback can feel like passive aggressiveness. 
-
-
+* I like direct feedback, as hinting, indirect feedback can feel like passive aggressiveness.
+* If we're talking about feedback when you're editing: I'm open to all questions, suggestions, and feedback in comments, Slack, or a call - whatever works best for you. Feel free to directly edit using "suggested changes" so I can see the edits easily.
